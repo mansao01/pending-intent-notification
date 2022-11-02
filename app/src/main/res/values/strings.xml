@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationApp</string>
+    <string name="notification">Notification</string>
+    <string name="content_title">Novri Lukman Zyarif</string>
+    <string name="content_text">201953120</string>
+    <string name="subtext">Try Pending Intent</string>
+    <string name="send_notif">Send Notif</string>
+</resources>
